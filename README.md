@@ -14,6 +14,6 @@ Repossa esimerkkikuva tekstitiedostona.
 
 ## Käynnistys
 
-'''
+```
 java BimEdit example.txt
-'''
+```
