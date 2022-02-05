@@ -11,3 +11,9 @@ Halutessaan kaiuttaa komentoja, perään voi vielä kirjoittaa komennon ”echo�
 toistaa käyttäjän syötteet ohjelman ajamisen aikana.
 
 Repossa esimerkkikuva tekstitiedostona.
+
+## Käynnistys
+
+'''
+java BimEdit example.txt
+'''
